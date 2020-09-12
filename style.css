@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    font-size: .9rem;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #212529;
+    text-align: left;
+    background-color: #a3d2ca;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-JustIn{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .04);
+}
+
+.forms-group {
+    padding: 13%;
+}
+
+.navbar {
+    padding: 2%;
+    background-color: #133b5c;
+}
+
+.card-header {
+    background-color:#133b5c;
+}
+
+.btn-primary {
+    background-color: #133b5c;
+    border-color:#133b5c;
+}
+
+.btn-primary:hover {
+    background-color: #1d2d50;
+}
+
+footer {
+    background-color: #133b5c;
+    color: #fff;
+    text-align: center;
+    padding: 1.5%;
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+.navbar-light .navbar-brand {
+    font-weight: bolder;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-weight: bold;
+    font-size: 1.25rem;;
+}
+
+.req {
+    color: red;
+}
+.navbar-brand {
+    font-size: 2rem;
+    font-weight: bold;
+}
+h3{
+    color: black;
+}
+.card-body{
+    background-color: #ecf4f3;
+}
