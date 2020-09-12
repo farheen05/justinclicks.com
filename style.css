@@ -21,6 +21,9 @@ body {
     padding: 2%;
     background-color: #133b5c;
 }
+.navbar-brand{
+     font-family: montserrat;
+}
 
 .card-header {
     background-color:#133b5c;
@@ -62,6 +65,7 @@ footer {
 }
 h3{
     color: #fff;
+   font-family: montserrat;
 }
 .card-body{
     background-color: #ecf4f3;
